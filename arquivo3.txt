@@ -1,2 +1,2 @@
-meu código ramificação secundaria
+meu código ramificação secundaria.Agora o próximo desenvolvedor adiciona outra linha.
 minha segunda linha de texto.
